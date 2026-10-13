@@ -53,7 +53,7 @@ var num = 2;
 // var total = num2%num;
 
 function booLean (num) {
-    if (num % === 0 ) {
+    if (num % 2 === 0 ) {
         return true;
     } else {
         return false;
